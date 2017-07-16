@@ -1,0 +1,15 @@
+.%username% tu perfil en %social_networks% me ha parecido muy interesante'
+.%username% Hemos abierto un proceso de selección para una importante empresa que busca incorporar un perfil de desarrollador %programming_languages%'
+.%username% Hemos iniciado proceso de selección para incorporaciones y nos gustaría saber tu situación actual.'
+Estamos buscando un perfil de desarrollador %programming_languages% para un interesante proyecto que se desplegará internacionalmente.'
+La nueva economía de %technologies% es uno de los temas principales en la mesa de los líderes de negocio y directores de TI.'
+.%username% me gustaría añadirte a mi red profesional en %social_networks%, y poder hablar de futuros proyectos.'
+.%username% si me facilitas un teléfono, te llamo y te cuento.'
+Seleccionamos un programador %programming_languages%, para una empresa ubicada en la zona %geographic_areas% de %places%'
+Nuestro cliente fabrica, comercializa e implanta un %technologies% especializado en el sector.'
+%username% me gustaría poder recibir tu CV actualizado y así poder gestionarlo a nivel interno.'
+¡Enhorabuena por tu nuevo puesto %username%! Espero que te esté yendo bien.'
+Trabajamos con importantes clientes del sector de %areas%
+Ofrecemos una contratación indefinida, se trabaja en nuestras oficinas en un equipo joven y dinámico.
+En %companies% contamos con un ambiente excelente para trabajar donde realizamos %activities%, %activities%, %activities%...
+En %companies% tendrás los siguientes benefits: %perks%, %perks%, %perks%, ...

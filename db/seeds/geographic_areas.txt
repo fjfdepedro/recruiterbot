@@ -1,0 +1,10 @@
+norte
+sur
+este
+oeste
+noroeste
+noreste
+sudeste
+sudoeste
+centro
+culo del mundo
