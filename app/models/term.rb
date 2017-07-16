@@ -1,7 +1,7 @@
 class Term < ApplicationRecord
 
   def self.categories
-    %w( programming_languages technologies social_networks geographic_areas places areas companies activities perks )
+    %w( programming_languages technologies social_networks geographic_areas places areas companies activities perks adjectives programs )
   end
 
   scope :programming_languages, -> { where(category: 'programming_languages') }
@@ -13,5 +13,7 @@ class Term < ApplicationRecord
   scope :companies, -> { where(category: 'companies') }
   scope :activities, -> { where(category: 'activities') }
   scope :perks, -> { where(category: 'perks') }
+  scope :adjectives, -> { where(category: 'adjectives') }
+  scope :programs, -> { where(category: 'programs') }
 
 end
